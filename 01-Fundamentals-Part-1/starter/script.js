@@ -1,7 +1,3 @@
-let js = 'amazing';
+let ageDaniel = 2021 - 1990;
 
-console.log(js);
-console.log(40 + 10 + 23 + 8);
-
-let javascript = true;
-console.log(javascript);
+console.log(ageDaniel);
